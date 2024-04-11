@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+}
+
+h1{
+    font-size: 3em;
+    font-family: "Roboto", sans-serif;
+}
+
+section{
+    background-color: color(srgb 0.9318 0.9319 0.932);
+    padding: 15px;
+    text-align: center;
+}
+
+.liste{
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+}
